@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+}
+
+.heading
+{
+    width: 100%;
+    font-size: 23px;
+    margin: 0px;
+}
+
+.nh
+{
+    text-align: left;
+    padding-left: 400px;
+    padding-right: 250px;
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: aqua;
+    background-color: gray;
+    bottom: 0;
+    line-height: 15px;
+    text-align: center;
+    width: 100%;
+}
